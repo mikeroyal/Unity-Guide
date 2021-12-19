@@ -30,7 +30,7 @@ Unity Guide
 
 4. [Game Development](https://github.com/mikeroyal/Unity-Guide#game-development)
 
-5. [Augmented Reality (AR) & Virtual Reality (VR)](https://github.com/mikeroyal/Unity-Guide#Augmented-Reality-AR--Virtual-Reality-VR-tools-and-frameworks)
+5. [Augmented Reality (AR) & Virtual Reality (VR)](https://github.com/mikeroyal/Unity-Guide#augmented-reality-ar--virtual-reality-vr)
 
 6. [Vulkan Development](https://github.com/mikeroyal/Unity-Guide#vulkan-development)
 
