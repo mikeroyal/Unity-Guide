@@ -24,7 +24,7 @@ Unity Guide
 
 2. [VS Code Development](https://github.com/mikeroyal/Unity-Guide#vs-code-development)
 
-    - [VS Code Extensions for Developer Productivity](https://github.com/mikeroyal/unity-Guide#Unity-Extensions-for-Developer-Productivity)
+    - [VS Code Extensions for Developer Productivity](https://github.com/mikeroyal/Unity-Guide#VS-Code-Extensions-for-Developer-Productivity)
 
 3. [Xcode Development](https://github.com/mikeroyal/Unity-Guide#xcode-development)
 
@@ -54,7 +54,7 @@ Unity Guide
 
 16. [Machine Learning](https://github.com/mikeroyal/Unity-Guide#machine-learning)
 
-17. [Deep Learning](https://github.com/mikeroyal/Unity-Guide#machine-learning)
+17. [Deep Learning](https://github.com/mikeroyal/Unity-Guide#deep-learning)
 
 18. [CUDA Development](https://github.com/mikeroyal/Unity-Guide#cuda-development)
 
@@ -776,7 +776,7 @@ Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveinde
 [Back to the Top](https://github.com/mikeroyal/Unity-Guide#table-of-contents)
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/129622295-1bd0e123-57bb-4460-baab-8dbc8818052a.png">
+ <img src="https://user-images.githubusercontent.com/45159366/146693482-58c6d5d6-06ff-4ba9-b77e-38307358370d.png">
   <br />
 </p>
 
@@ -2264,7 +2264,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 [Back to the Top](https://github.com/mikeroyal/Unity-Guide#table-of-contents)
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/115297894-961e0d80-a111-11eb-81c3-e2bd2ac9a7cd.png">
+ <img src="https://user-images.githubusercontent.com/45159366/146693483-c944138d-e703-4066-b19d-f2b0d9d69cbf.png">
   <br />
 </p>
 
