@@ -1,15 +1,15 @@
 <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/146693020-d0c0be13-561c-4004-804b-972052676e7c.png">
+ <img src="https://user-images.githubusercontent.com/45159366/147710942-5da4fef2-5525-4942-98bc-81421b2144e5.png">
   <br />
 Unity Guide
 </h1>
 
-#### A guide covering Unity including the applications, libraries and tools that will make you a better and more efficient Unity development.
+#### A guide covering Unity including the applications, libraries and tools that will make you a better and more efficient Unity developer.
 
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/146693038-96f1b1aa-2f67-4a52-b60d-cdebb3de18a2.png">
+ <img src="https://user-images.githubusercontent.com/45159366/147710948-fe9a4d6f-38ff-4e57-ad5f-1095e48192b7.png">
   <br />
 </p>
 
