@@ -170,6 +170,8 @@ Unity Terrain project. Source: [Unity](https://blog.unity.com/technology/evolvin
 
 [ParSec](https://parsec.app/) is a the ultimate remote desktop, powerful enough for teams of developers, designers, architects, and engineers to get the job done and work together from anywhere. [Unity Technologies acquired Parsec in August 2021](https://unity.com/our-company/newsroom/unity-enters-agreement-acquire-parsec).
 
+[SyncSketch](https://syncsketch.com) is a collaboration software for visual artists that allows a team to view, review, and provide feedback on each other’s work. It includes support for both 2D and 3D assets as well as video. As of [December 2021 SyncSketch has been acquired by Unity Technologies](https://blog.syncsketch.com/news/sycncsketch-acquired-by-unity/).
+
 [Weta Digital](https://www.wetafx.co.nz/) is a digital visual effects company created by [Peter Jackson](https://www.imdb.com/name/nm0001392/). It produced the digital special effects for Heavenly Creatures and the Lord of the Rings. [Unity Technologies acquired Weta Digital in November 2021](https://unity.com/our-company/newsroom/unity-announces-intent-acquire-weta-digital).
 
 
