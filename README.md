@@ -166,7 +166,7 @@ Unity Terrain project. Source: [Unity](https://blog.unity.com/technology/evolvin
 
 [Backtrace](https://unity.com/products/backtrace) is a game crash management platform that delivers uninterrupted game experiences by automating your response to errors.
 
-[SpeedTree®](SpeedTree - 3D Vegetation Modeling and Middleware) is a group of vegetation programming and modeling software products developed and sold by Interactive Data Visualization, Inc. that generates virtual foliage for animations, architecture and in real time for video games and demanding real time simulations. [Unity Technologies acquired SpeedTree in July 2021](https://investors.unity.com/news/news-details/2021/Unity-Acquires-Interactive-Data-Visualization-Inc.-IDV-Creators-of-SpeedTree-Environment-Creation-Suite/default.aspx).
+[SpeedTree®](https://store.speedtree.com/) is a group of vegetation programming and modeling software products developed and sold by Interactive Data Visualization, Inc. that generates virtual foliage for animations, architecture and in real time for video games and demanding real time simulations. [Unity Technologies acquired SpeedTree in July 2021](https://investors.unity.com/news/news-details/2021/Unity-Acquires-Interactive-Data-Visualization-Inc.-IDV-Creators-of-SpeedTree-Environment-Creation-Suite/default.aspx).
 
 [ParSec](https://parsec.app/) is a the ultimate remote desktop, powerful enough for teams of developers, designers, architects, and engineers to get the job done and work together from anywhere. [Unity Technologies acquired Parsec in August 2021](https://unity.com/our-company/newsroom/unity-enters-agreement-acquire-parsec).
 
